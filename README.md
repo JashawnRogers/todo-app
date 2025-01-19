@@ -19,7 +19,7 @@ Ensure you have a modern web browser installed (e.g., Chrome, Firefox, Safari).
 
 ### Installation
 
-1. Visit live site [here](https://google.com).
+1. Visit live site [here](https://task-checkmate.netlify.app).
 
 2. **Clone the repository**:
 
